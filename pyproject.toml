@@ -1,0 +1,36 @@
+[project]
+name = "comfyui-image-compress"
+version = "1.0.0"
+description = "ComfyUI custom node for JPEG/PNG compression with quality, scale, and performance reporting"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+keywords = ["comfyui", "image", "compression", "jpeg", "png", "custom-node"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Multimedia :: Graphics",
+]
+
+# All runtime dependencies are bundled with ComfyUI.
+# Listed here for clarity and standalone use.
+dependencies = [
+    "Pillow>=9.0.0",
+    "numpy>=1.23.0",
+    "torch>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/comfyuiattic-989/comfyui-image-compress"
+Repository = "https://github.com/comfyuiattic-989/comfyui-image-compress"
+"Bug Tracker" = "https://github.com/comfyuiattic-989/comfyui-image-compress/issues"
+Changelog = "https://github.com/comfyuiattic-989/comfyui-image-compress/blob/main/CHANGELOG.md"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
