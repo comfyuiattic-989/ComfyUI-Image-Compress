@@ -37,7 +37,7 @@ After processing, the image remains sharp enough for most web and AI-generation 
 ### 3\. Node Configuration
 
 The setup used for the comparison above:
-[![Example-01-Settings.png](https://i.postimg.cc/ZRqf9jsf/Example-01-Settings.png)](https://postimg.cc/1gL020Q6)
+![Example-01-Settings.png](<Example_01 Settings.png>)
 
 -----
 
@@ -45,5 +45,5 @@ The setup used for the comparison above:
 
 | Uncompressed (Original) | Compressed (65% Scale, 25 Quality) |
 | :---: | :---: |
-| [![Example-01-Uncompressed.png](https://i.postimg.cc/WpkG5Qrc/Example-01-Uncompressed.png)](https://postimg.cc/bdqSJV3m)(https://postimg.cc/bdqSJV3m) | [![Example-01-Compressed.png](https://i.postimg.cc/s2GxVRsb/Example-01-Compressed.png)](https://postimg.cc/yJBsPtJT)(https://postimg.cc/yJBsPtJT) |
+| ![Example-01-Uncompressed.png](Example_01--Uncompressed.png) | ![Example-01-Compressed.png](Example_01--Compressed.png) |
 | *Full Resolution / 3.55MB* | *Optimized / 1.62MB* |
