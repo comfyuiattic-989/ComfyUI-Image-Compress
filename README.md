@@ -64,6 +64,8 @@ Then restart ComfyUI. The node will appear under **image/processing → Image Co
 
 ## Understanding the Two Controls
 
+![Example-01-Settings.png](<examples/Example_01 Settings.png>)
+
 The `quality` and `scale_percent` sliders are independent and serve different purposes:
 
 | | `quality` | `scale_percent` |
