@@ -2,6 +2,8 @@
 
 A lightweight, high-performance custom node for **ComfyUI** designed to optimize workflows by compressing images on the fly. This node is perfect for reducing storage footprints or preparing images for web delivery without leaving your workflow.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L61XEMBR)
+
 ## 🛠 Features
 
   * **Lossy & Lossless Support:** Switch between PNG, JPEG, and WebP formats.
@@ -47,3 +49,5 @@ The setup used for the comparison above:
 | :---: | :---: |
 | ![Example-01-Uncompressed.png](Example_01--Uncompressed.png) | ![Example-01-Compressed.png](Example_01--Compressed.png) |
 | *Full Resolution / 3.55MB* | *Optimized / 1.62MB* |
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L61XEMBR)

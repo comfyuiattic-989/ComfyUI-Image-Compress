@@ -7,6 +7,8 @@
 
 A custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node that compresses images using JPEG or PNG encoding with independent control over encode quality and output scale. Includes a detailed per-frame performance report covering file size savings and encode/decode timing.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L61XEMBR)
+
 ---
 
 ## Features
@@ -161,4 +163,6 @@ See [CHANGELOG.md](CHANGELOG.md) for the full version history.
 
 ## License
 
-[MIT](LICENSE) © 2025
+[MIT](LICENSE) © 2026
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L61XEMBR)
